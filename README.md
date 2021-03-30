@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @popchenk
-- 👀 I’m interested in gpwebpay
-- 🌱 I’m currently learning gpwebpay
-- 💞️ I’m looking to collaborate on gpwebpay
-- 📫 How to reach me ...
+- 👀 I’m interested in gpwebpay and paypal
+- 🌱 I’m currently learning gpwebpay and paypal
+- 💞️ I’m looking to collaborate on gpwebpay and paypal
+- 📫 How to reach me ... please don't
 
 <!---
 popchenk/popchenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
