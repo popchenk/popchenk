@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @popchenk
-- 👀 I’m interested in gpwebpay and paypal
-- 🌱 I’m currently learning gpwebpay and paypal
-- 💞️ I’m looking to collaborate on gpwebpay and paypal
+- 👀 I’m interested in gpwebpay, paypal and stripe
+- 🌱 I’m currently learning gpwebpay, paypal and stripe
+- 💞️ I’m looking to collaborate on gpwebpay, paypal and stripe
 - 📫 How to reach me ... please don't
 
 <!---
